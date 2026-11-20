@@ -1,0 +1,6 @@
+{
+  "name": "Mi Dinero",
+  "description": "Aplicación de control de finanzas personales adaptable a celulares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
